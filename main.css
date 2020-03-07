@@ -1,0 +1,17 @@
+body {
+  background-color: #8A2BE2;
+  color: white;
+  font-family: 'Alfa Slab One', cursive;
+  font-size: 6vh;
+}
+
+section div.container {
+  text-align: center;
+  margin-top: 30vh;
+  vertical-align: middle;
+}
+
+section div.container h1 {
+  font-size: 15vh;
+}
+/*# sourceMappingURL=main.css.map */
